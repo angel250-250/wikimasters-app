@@ -1,0 +1,9 @@
+{
+  "appId": "com.exemple.wikimasters",
+  "appName": "WikiMasters",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.wiki-masters.com",
+    "allowNavigation": ["wiki-masters.com", "*.wiki-masters.com"]
+  }
+}
